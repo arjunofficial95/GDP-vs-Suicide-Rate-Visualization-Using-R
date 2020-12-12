@@ -6,4 +6,4 @@ Out of more curiosity, I would like to investigate further into the below questi
 2. Does economy of a country depend on the happiness index of a country?
 3. Is there any link between how happy a citizen think themselves to be and the rate of suicides? Or in simpler words, the relation between Suicidal Death rates and        the Happiness Index of a country.
 
-The whole report is present in the pdf along with the codes attached.
+The visualization exploration was done using first a five sheet design, R shiny and D3.
